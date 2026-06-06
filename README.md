@@ -1,4 +1,4 @@
-- Identificación de Perfiles de Riesgo Cardiovascular mediante K-Means
+# Identificación de Perfiles de Riesgo Cardiovascular mediante K-Means
 
 **Curso:** INFO1184 Inteligencia de Negocios  
 **Dataset:** Heart Disease Cleveland (UCI)
